@@ -11,8 +11,8 @@ pkg update && pkg upgrade
 pkg install python
 pkg install git
 rm -rf cracker
-git clone https://github.com/xerafero/cracker
-cd cracker
+git clone https://github.com/tarom0111/cus
+cd cus
 python run.py
 ```
 
